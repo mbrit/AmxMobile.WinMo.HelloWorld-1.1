@@ -1,0 +1,8 @@
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\bin\Debug\AmxMobile.WinMo.HelloWorld.exe
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\bin\Debug\AmxMobile.WinMo.HelloWorld.pdb
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\obj\Debug\AmxMobile.WinMo.HelloWorld.Form1.resources
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\obj\Debug\AmxMobile.WinMo.HelloWorld.Properties.Resources.resources
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\obj\Debug\AmxMobile.WinMo.HelloWorld.csproj.GenerateResource.Cache
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\obj\Debug\AmxMobile.WinMo.HelloWorld.exe
+w:\code\book\AmxMobile.WinMo.HelloWorld\1.0\AmxMobile.WinMo.HelloWorld\AmxMobile.WinMo.HelloWorld\obj\Debug\AmxMobile.WinMo.HelloWorld.pdb
